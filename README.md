@@ -21,7 +21,7 @@
 
 I am a software engineer passionate about everything related to programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 👀 I’m interested in ARTIFICIAL INTELLIGENCE, DATA SCIENCE, WEB DEVELOPMENT, SOFTWARE AND MOBILE DEVELOPMENT.
+- 👀 I’m interested in ARTIFICIAL INTELLIGENCE,MACHINE LEARNING, DATA SCIENCE, WEB DEVELOPMENT, SOFTWARE AND MOBILE DEVELOPMENT.
 
 - 🌱 I’m currently learning JAVA and PYTHON.
 
