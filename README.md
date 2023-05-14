@@ -21,11 +21,11 @@
 
 I am a computer network and internet student passionate about everything related to programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 👀 I’m interested in ARTIFICIAL INTELLIGENCE,MACHINE LEARNING, DATA SCIENCE, WEB DEVELOPMENT, SOFTWARE AND MOBILE DEVELOPMENT.
+- 👀 I’m interested in ARTIFICIAL INTELLIGENCE,WEB DEVELOPMENT, SOFTWARE AND MOBILE DEVELOPMENT.
 
-- 🌱 I’m currently learning JAVA and PYTHON.
+- 🌱 I’m currently learning Kotlin and PYTHON.
 
-- ⚡ In my free time, I solve problems on HackerRank and read tech articles.
+- ⚡ In my free time, I solve problems on HackerRank, leetcode and read tech articles.
 
 - 📫 How to reach me:  hospicehounfodji@gmail.com 
 
