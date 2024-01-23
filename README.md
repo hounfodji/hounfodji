@@ -23,7 +23,7 @@ I am a computer network and internet student passionate about everything related
 
 - 👀 I’m interested in ARTIFICIAL INTELLIGENCE,WEB DEVELOPMENT, SOFTWARE AND MOBILE DEVELOPMENT.
 
-- 🌱 I’m currently learning Kotlin and PYTHON.
+- 🌱 I’m currently learning JAVA and PYTHON.
 
 - ⚡ In my free time, I solve problems on HackerRank, leetcode and read tech articles.
 
