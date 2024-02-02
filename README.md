@@ -58,6 +58,9 @@ I am a computer network and internet student passionate about everything related
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hounfodji&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hounfodji&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+### :fire: My Trophies :
+[![trophy](https://github-profile-trophy.vercel.app/?username=hounfodji)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
 hounfodji/hounfodji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
