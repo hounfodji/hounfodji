@@ -46,8 +46,6 @@ I am a computer network and internet student passionate about everything related
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" **alt="laravel" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-plain-wordmark.svg" title="laravel" **alt="laravel" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
 </div>
 
