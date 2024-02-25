@@ -61,9 +61,9 @@ I am a Software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 
-<a href="http://www.github.com/hounfodji"><img src="https://github-readme-stats.vercel.app/api?username=hounfodji&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hounfodji's GitHub stats" /></a>
+<a href="http://www.github.com/hounfodji"><img src="https://github-readme-stats.vercel.app/api?username=hounfodji&theme=darcula&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="hounfodji's GitHub stats" /></a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hounfodji&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hounfodji&theme=darcula)](https://git.io/streak-stats)
 
 <a href="http://www.github.com/hounfodji"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hounfodji&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
