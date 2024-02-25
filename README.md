@@ -1,29 +1,32 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
+<!--<div id="header" align="center">
+   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div> -->
+
+ <div  align="center">
+    <h1>
+     Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Hospice HOUNFODJI   
+    </h1>
+ </div>
+ <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hospice-hounfodji-44a2a7235/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/HRHounfodji">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+   <a href="https://www.instagram.com/hospice_6/">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
- <div  align="center">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-    <h1>
-     Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Hospice HOUNFODJI   
-    </h1>
- </div>
  
 
 ### :woman_technologist: About Me :
 
-I am a computer network and internet student passionate about everything related to programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 👀 I’m interested in ARTIFICIAL INTELLIGENCE,WEB DEVELOPMENT, SOFTWARE AND MOBILE DEVELOPMENT.
+- 👀 I’m interested in ARTIFICIAL INTELLIGENCE, WEB DEVELOPMENT, MOBILE DEVELOPMENT AND DESKTOP APP DEVELOPMENT.
 
-- 🌱 I’m currently learning JAVA and PYTHON.
+- 🌱 I’m currently learning PYTHON and DART/FLUTTER.
 
 - ⚡ In my free time, I solve problems on HackerRank, leetcode and read tech articles.
 
@@ -45,18 +48,30 @@ I am a computer network and internet student passionate about everything related
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="laravel" **alt="laravel" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="dart" **alt="dart" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" **alt="django" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" **alt="docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" **alt="flutter" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" **alt="php" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="postman" **alt="postman" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" **alt="react" width="40" height="40"/>
 </div>
 
 ---
 
 ### :fire: My Stats :
 
+<a href="http://www.github.com/hounfodji"><img src="https://github-readme-stats.vercel.app/api?username=hounfodji&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hounfodji's GitHub stats" /></a>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hounfodji&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hounfodji&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<a href="http://www.github.com/hounfodji"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hounfodji&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-### :fire: My Trophies :
-[![trophy](https://github-profile-trophy.vercel.app/?username=hounfodji)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/hounfodji" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hounfodji&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+
 <!---
 hounfodji/hounfodji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
