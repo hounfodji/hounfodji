@@ -24,7 +24,7 @@
 
 I am a Software delevoper.
 
-- 👀 I’m interested in WEB DEVELOPMENT, MOBILE DEVELOPMENT and CLOUD COMPUTING.
+- 👀 I’m interested in WEB DEVELOPMENT, MOBILE DEVELOPMENT, AI and CLOUD COMPUTING.
 
 - 🌱 I’m currently expanding my AI skills to combine software engineering with AI technologies, aiming to create innovative solutions and tackle complex challenges across various industries.
 
