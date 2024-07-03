@@ -22,7 +22,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Software delevoper who aspires to be a cloud engineer.
+I am a Software delevoper.
 
 - 👀 I’m interested in WEB DEVELOPMENT, MOBILE DEVELOPMENT and CLOUD COMPUTING.
 
