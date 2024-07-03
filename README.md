@@ -26,7 +26,7 @@ I am a Software delevoper who aspires to be a cloud engineer.
 
 - 👀 I’m interested in WEB DEVELOPMENT, MOBILE DEVELOPMENT and CLOUD COMPUTING.
 
-- 🌱 I’m currently expanding my skills in cloud engineering, exploring AWS, Azure, and GCP, with a focus on serverless architectures and containerization.
+- 🌱 I’m currently expanding my AI skills to combine software engineering with AI technologies, aiming to create innovative solutions and tackle complex challenges across various industries.
 
 - ⚡ In my free time, I solve problems on HackerRank, leetcode and read tech articles.
 
