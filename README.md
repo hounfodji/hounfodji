@@ -24,9 +24,9 @@
 
 I am a Software engineer.
 
-- 👀 I’m interested in WEB DEVELOPMENT, MOBILE DEVELOPMENT, AI and CLOUD COMPUTING.
+- 👀 I’m interested in WEB DEVELOPMENT, MOBILE DEVELOPMENT and AI.
 
-- 🌱 Currently, I'm expanding my skills in cloud engineering.
+- 🌱 Currently, I'm expanding my skills in NLP.
 
 - ⚡ In my free time, I solve problems on HackerRank, leetcode and read tech articles.
 
