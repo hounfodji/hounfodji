@@ -24,7 +24,7 @@
 
 I am a Software engineer.
 
-- 👀 I’m interested in WEB DEVELOPMENT, MOBILE DEVELOPMENT and AI.
+- 👀 I’m interested in BACKEND DEVELOPMENT, MOBILE DEVELOPMENT with FLUTTER and AI/ML.
 
 - 🌱 Currently, I'm expanding my skills in NLP.
 
