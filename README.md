@@ -22,9 +22,8 @@
 
 ### :woman_technologist: About Me :
 
-I am a Software engineer.
 
-- 👀 I’m interested in BACKEND DEVELOPMENT, MOBILE DEVELOPMENT with FLUTTER and AI/ML.
+- 👀 I’m interested in AI/ML.
 
 - 🌱 Currently, I'm expanding my skills in NLP.
 
