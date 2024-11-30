@@ -23,7 +23,7 @@
 ### :woman_technologist: About Me :
 
 
-- 👀 I’m interested in AI/ML.
+- 👀 I’m interested in AI/ML and Data Engineering.
 
 - 🌱 Currently, I'm expanding my skills in NLP.
 
