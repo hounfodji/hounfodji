@@ -23,9 +23,9 @@
 ### :woman_technologist: About Me :
 
 
-- 👀 I’m interested in AI/ML and Data Engineering.
+- 👀 I’m interested in AI/ML.
 
-- 🌱 Currently, I'm expanding my skills in NLP.
+- 🌱 Currently, I'm expanding my skills in Computer Vision.
 
 - ⚡ In my free time, I solve problems on HackerRank, leetcode and read tech articles.
 
