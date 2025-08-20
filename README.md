@@ -3,7 +3,7 @@
         
 Hi, I'm Hospice 👋.
 - 🔬 **AI Engineer** specializing in **Machine Learning, Deep Learning & Computer Vision**.  
-- 🚀 Expert in building scalable solutions and developing advanced models using Python, TensorFlow, PyTorch, Scikit-learn, LangChain, LangGraph and MLflow.
+- 🚀 Expert in **building scalable solutions** and developing **advanced models** using Python, TensorFlow, PyTorch, Scikit-learn, LangChain, LangGraph and MLflow.
 - 📚 Passionate about **research, hackathons, and turning ideas into real-world solutions**. 
 - 🌱 Currently pursuing a master's degree in AI.
 - 📫 You can reach me via hospicehounfodji@gmail.com.
@@ -15,7 +15,7 @@ Let’s build the future of Artificial Intelligence together! 🚀
 <div>
 
 <a href="https://hounfodji.github.io/" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=hounfodji&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=hounfodji&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="1000%" height="0%">
 </a>
 
 <br>
