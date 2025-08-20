@@ -1,4 +1,4 @@
-![Header](./github-header-image.jpg)
+![Header](./image.png)
 
 <div style="font-size:5em;">
         
@@ -71,8 +71,8 @@ Let’s build the future of Artificial Intelligence together! 🚀
 <br>
 
 <p align="center"> 
-  <a href = "https://leetcode.com/am_hospice/">
-    <img src="https://leetcard.jacoblin.cool/am_hospice?theme=unicorn&font=Almarai&ext=contest"/>
+  <a href = "https://leetcode.com/Hospice/">
+    <img src="https://leetcard.jacoblin.cool/Hospice?theme=unicorn&font=Almarai&ext=contest"/>
   </a>
 </p> 
 
@@ -83,11 +83,11 @@ Let’s build the future of Artificial Intelligence together! 🚀
 <br>
 
 <div align="center">
-  <a href="https://www.leetcode.com/ataturhan"><img src="https://img.shields.io/badge/-Leetcode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
+  <a href="https://www.leetcode.com/Hospice"><img src="https://img.shields.io/badge/-Leetcode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
   </a>
-  <a href="https://www.linkedin.com/in/ataturhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://linkedin.com/in/hospice-hounfodji-44a2a7235"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.hackerrank.com/ataturhan"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
+  <a href="https://www.hackerrank.com/profile/hospicehounfodji"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
   </a>
 
 </div>
