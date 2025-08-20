@@ -2,7 +2,7 @@
 
 <div style="font-size:5em;">
         
-Hi, I'm Ata 👋 a 10x AI engineer and full-time biohacker.
+Hi, I'm Hospice 👋.
 - 🔬 **AI Engineer** specializing in **Machine Learning, Deep Learning & Computer Vision**.  
 - 🚀 Expert in building scalable solutions and developing advanced models using Python, TensorFlow, PyTorch, Scikit-learn, LangChain, LangGraph and MLflow.
 - 🌍 Building **AI for social impact**: healthcare, environment, and education.  
