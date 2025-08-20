@@ -15,12 +15,10 @@ Let’s build the future of Artificial Intelligence together! 🚀
 <div>
 
 <a href="https://hounfodji.github.io/" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=hounfodji&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="1000%" height="0%">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=hounfodji&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="100%" height="0%">
 </a>
 
 <br>
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=hounfodji&style=flat-square&color=blue" alt=""></p>
 
 <div align="center">  
    <img width="45%" height="240px" src="https://github-readme-stats.vercel.app/api?username=hounfodji&custom_title=%20GitHub%20Stats&show_icons=true&theme=holi&rank_icon=default" alt="Hospice's github stats" /> 
