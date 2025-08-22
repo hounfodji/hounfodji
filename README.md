@@ -6,6 +6,7 @@ Hi, I'm Hospice 👋.
 - 🚀 Expert in **building scalable solutions** and developing **advanced models** using Python, TensorFlow, PyTorch, Scikit-learn, LangChain, LangGraph and MLflow.
 - 📚 Passionate about **research, hackathons, and turning ideas into real-world solutions**. 
 - 🌱 Currently pursuing a master's degree in AI.
+- 🌐 Check out my portfolio: hospicehounfodji.vercel.app
 - 📫 You can reach me via hospicehounfodji@gmail.com.
 
 Let’s build the future of Artificial Intelligence together! 🚀
