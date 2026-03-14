@@ -37,14 +37,6 @@ Let’s build the future of Artificial Intelligence together! 🚀
 </div>
 
 <div align="center"> 
-  <h3> 🏆 GitHub Profile Trophy </h3>
-</div>
- <div>
-  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=hounfodji&theme=onedark&bg_color=000000&column=-1"/>
-</div>
-
-
-<div align="center"> 
    <h1> 💻 Tech Stack </h1>
 </div>
 
