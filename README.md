@@ -1,76 +1,88 @@
-
-<div style="font-size:5em;">
-        
-Hi, I'm Hospice 👋.
-- 🔬 **AI Engineer** specializing in **Machine Learning, Deep Learning & Computer Vision**.  
-- 🚀 Expert in **building scalable solutions** and developing **advanced models** using Python, TensorFlow, PyTorch, Scikit-learn, LangChain, LangGraph and MLflow.
-- 📚 Passionate about **research, hackathons, and turning ideas into real-world solutions**. 
-- 🌱 Currently pursuing a master's degree in AI.
-- 🌐 Check out my portfolio: <a href="https://hospicehounfodji.vercel.app/" target="_blank">hospicehounfodji.vercel.app</a>
-- 📫 You can reach me via hospicehounfodji@gmail.com.
-
-Let’s build the future of Artificial Intelligence together! 🚀
-
-</div>
-
-<div>
-
-<a href="https://hounfodji.github.io/" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=hounfodji&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="100%" height="0%">
-</a>
-
-<br>
-
-<div align="center">  
-   <img width="45%" height="240px" src="https://github-readme-stats.vercel.app/api?username=hounfodji&custom_title=%20GitHub%20Stats&show_icons=true&theme=holi&rank_icon=default" alt="Hospice's github stats" /> 
-  <img width="45%" height="250px" src="https://streak-stats.demolab.com?user=hounfodji&theme=dark" alt="Hospice's github streak stats"/>
-</div>
-
-<div align="center">  
-  
-  <img width="90%" height="250px" src="https://myreadme.vercel.app/api/embed/hounfodji?panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=dark" alt="Hospice's github extra stats"/>
-</div>
-
-<div align="center">  
-  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hounfodji&theme=2077" alt="hounfodji's top lang stats per repo"/>
-  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hounfodji&theme=2077" alt="hounfodji's top lang stats per commit"/>
-</div>
-
-<div align="center"> 
-   <h1> 💻 Tech Stack </h1>
-</div>
-
-
-| 💻 Tech Stack |
-|     :---:      |
-| 📋 Languages |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
-| 🤖 AI, ML & DL |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23d9ead3.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  |
-| 💾 Databases / ☁️ Hosting-SaaS |
-| ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) |
-| 🌐 Web and mobile Development |
-| ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
- ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  |
-| 🔄 DevOps |
-| ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)  |
-| 🕓 Version Control |
-| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) |
-| 💻 IDEs/Editors |
-| ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) |
-
-<br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00bfbf&height=200&section=header&text=Hospice%20Hounfodji&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Multimodal%20AI%20%E2%80%A2%20LLMs%20%E2%80%A2%20Computer%20Vision&descSize=18&descAlignY=58" alt="Hospice Hounfodji – AI Engineer"/>
 
 <div align="center">
-  <a href="https://www.leetcode.com/Hospice"><img src="https://img.shields.io/badge/-Leetcode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
-  </a>
-  <a href="https://linkedin.com/in/hospice-hounfodji-44a2a7235"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.hackerrank.com/profile/hospicehounfodji"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
-  </a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFBF&center=true&vCenter=true&width=620&lines=AI+Engineer;Multimodal+AI+%E2%80%A2+Vision+%E2%80%A2+Text+%E2%80%A2+Speech;RAG+%26+Agentic+Systems+with+LangGraph;Local+LLMs+on+GPU+%E2%80%94+data+stays+private" alt="Typing SVG" /></a>
+
+<a href="https://linkedin.com/in/hospice-hounfodji-44a2a7235"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:hospicehounfodji@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://hospicehounfodji.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 </div>
+
+---
+
+### 👋 About me
+
+- 🔬 **AI Engineer** building AI systems that run in production.
+- 🧠 Focused on **multimodal AI** (vision, text, speech), **RAG & agentic systems** and **computer vision**.
+- 🔒 I deploy open-source models **locally on GPU**, so sensitive data never leaves the infrastructure.
+- 🎓 MSc in Artificial Intelligence (Epitech) · Engineering degree, Computer Networks (EPAC).
+- ☁️ **AWS Certified** AI Practitioner & Cloud Practitioner.
+
+---
+
+### 🚀 What I've built
+
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **CivicAI** · *229 Cadre de Vie* | Zero-shot multimodal AI that helps Benin's Ministry of Living Environment and Transport process citizen reports (text, images, audio). **90%** accuracy on image analysis, **89%** on moderation, **83%** on topic classification, with no training data. Being deployed. | Qwen3.5 · Whisper · MOSS-Audio |
+| **[Agentic RAG for Dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies)** ⭐ 4k+ | Contributor to a reference open-source project for agentic RAG: hierarchical indexing, hybrid search, query rewriting, parallel sub-agents. | LangGraph · Qdrant · Ollama |
+| **AgroVista AI** | Offline assistant that diagnoses crop diseases with a vision-language model running on a smartphone. Built at the UNDP UniPod bootcamp. | VLM · Edge AI |
+
+---
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=py,cs,cpp,bash&perline=10" alt="Languages"/>
+</p>
+
+<p align="center">
+  <b>AI, ML & Computer Vision</b><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=10" alt="AI and ML"/><br/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
+
+<p align="center">
+  <b>Backend, Data & Cloud</b><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mongodb,docker,aws,linux,git&perline=10" alt="Backend, data and cloud"/><br/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</p>
+
+---
+
+### 🏆 Certifications & awards
+
+<p align="center">
+  <a href="https://www.credly.com/badges/d076a09f-f882-44e3-9334-35fc3b4bb3dd/public_url"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="110" alt="AWS Certified AI Practitioner"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/3a2047a1-b2de-42c8-9276-2c66d17016c6/public_url"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS Certified Cloud Practitioner"/></a>
+</p>
+
+- 🥈 **2nd place**, Multimodal & Multilingual AI Hackathon, Benin ([certificate](https://lablab.ai/u/@hounfodji_hospice426/clxayco0x000ia121ry8ulxja))
+- 🌍 Selected by **UniPod Benin** (UNDP) to represent the country at a pan-African AI innovation bootcamp in Conakry (2025)
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hounfodji&show_icons=true&hide_rank=true&hide_border=true&theme=transparent&title_color=00bfbf&icon_color=00bfbf&custom_title=GitHub%20Stats" alt="GitHub stats" height="170"/>
+</p>
+
+<div align="center">
+
+<a href="https://www.leetcode.com/Hospice"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.hackerrank.com/profile/hospicehounfodji"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00bfbf&height=120&section=footer" alt=""/>
