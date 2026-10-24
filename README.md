@@ -6,7 +6,6 @@
 
 <a href="https://linkedin.com/in/hospice-hounfodji-44a2a7235"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:hospicehounfodji@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://hospicehounfodji.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
